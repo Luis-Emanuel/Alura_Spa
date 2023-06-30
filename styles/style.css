@@ -165,7 +165,7 @@ footer {
   margin-top: 1rem;
   padding: 1.2rem;
   text-align: center;
-  background: linear-gradient(to left, #495371, #74959A, #F1E0AC, #495371);
+  background: linear-gradient(to left, #495371);
 }
 footer i {
   color: red;

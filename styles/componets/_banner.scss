@@ -1,5 +1,6 @@
 @import '../abstract/variaveis';
-.banner{
+
+.banner {
     align-items: center;
     background: url(../imagens/banner.jpeg) 27% center no-repeat;
     min-height: 350px;
@@ -7,20 +8,22 @@
     display: flex;
     justify-content: center;
     opacity: 0.9;
-    .inner-banner{
+
+    .inner-banner {
         background-color: $cor-terciaria;
         border-radius: 45px;
         opacity: 0.9;
         padding: 3rem;
 
-        h1{
+        h1 {
             font-size: $tamanho-do-texto;
             color: $cor-primaria;
         }
-        h2{
+
+        h2 {
             font-size: $tamanho-do-texto / 2;
             color: $cor-secundaria;
-            
+
         }
     }
 }
