@@ -1,6 +1,6 @@
 @import '../abstract/variaveis';
 
-@mixin bg-cores($cores) {
+@mixin bg-cores($cores...) {
   background: linear-gradient(to left, $cores);
 }
 
@@ -11,7 +11,7 @@ footer {
   padding: 1.2rem;
   text-align: center;
 
-  @include bg-cores($cor-primaria);     
+  @include bg-cores($cor-primaria, $cor-secundaria, $cor-terciaria);     
   i {
     color: red;
   }
