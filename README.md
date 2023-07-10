@@ -1,5 +1,5 @@
 <h1 align="center">Alura SPA </h1>
-<p align="center">Página web de um SPA com o intuído de divulgar os serviços e atrair clientes</p>
+<p align="center">Página web de um SPA com o intuído de divulgar os serviços e atrair clientes, utilizamos o SASS para a estilização do projeto </p>
 <div align="center">
 <img src="https://github.com/Luis-Emanuel/Alura-SPA/blob/main/readme/gif.gif?raw=true"/>
 </div>	
